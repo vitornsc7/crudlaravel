@@ -41,6 +41,7 @@ DB_DATABASE=crudlaravel
 DB_USERNAME=root
 DB_PASSWORD=root
 ```
+Não se esqueça de criar a DB com o exato nome utilizado.
 ## Passo 4: Instale as dependências do PHP com Composer:
 ```bash
 composer install
