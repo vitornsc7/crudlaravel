@@ -56,6 +56,7 @@ php artisan key:generate
 ```
 ## Passo 7: Rode as migrations para criar as tabelas no banco de dados:
 ```bash
+php artisan session:table
 php artisan migrate
 ```
 
