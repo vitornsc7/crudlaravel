@@ -11,13 +11,11 @@ Antes de rodar o projeto, você precisa ter instalado:
 - MySQL ou outro banco de dados (precisando trocar no .env)
 
 
-## Passo 1: Clonar o projeto
-## No terminal:
+## Passo 1: Clonar o projeto pelo terminal:
 git clone https://github.com/vitornsc7/crudlaravel.git
 cd crudlaravel
 
-## Passo 2: Copiar o arquivo de exemplo .env.examplo para o criar o .env
-## No terminal
+## Passo 2: Copiar o arquivo de exemplo .env.examplo para o criar o .env pelo terminal
 cp .env.example .env
 
 ## Passo 3: Se for utilizar algum outro banco de dados, altere essas informações do .env:
