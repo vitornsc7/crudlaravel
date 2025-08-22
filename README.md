@@ -21,7 +21,7 @@ Antes de rodar o projeto, você precisa ter instalado:
 
 ---
 
-## Instalação
+# Instalação
 
 ## 1. Clonar o projeto
 ```bash
@@ -64,7 +64,7 @@ php artisan serve
 ```
 O projeto estará acessível em http://localhost:8000
 
-# Passo 9: Para tornar o Vite acessível, rode:
+## Passo 9: Para tornar o Vite acessível, rode:
 ```bash
 npm run dev
 ```
